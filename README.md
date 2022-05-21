@@ -1,1 +1,1 @@
-# JavaScript.-43-dars.-Loader
+# JavaScript.-48-dars.-slider
